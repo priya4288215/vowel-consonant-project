@@ -24,6 +24,7 @@ public class VowelConsonant {
                     consonants++;
             }
         }
+        System.out.println("Program updated");
 
         System.out.println("Vowels = " + vowels);
         System.out.println("Consonants = " + consonants);
